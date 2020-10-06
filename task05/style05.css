@@ -1,0 +1,122 @@
+*{
+ padding:0;
+ margin:0;
+}
+body{
+    background-color: #eee;
+}
+p{
+    text-indent: 2em;
+}
+.box1{
+    width: 100%;
+    height: 52px;
+    background-color:rgba(51, 51, 51);
+   
+    
+}
+.list a{
+    
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    line-height: 52px;
+    
+}
+.list1{
+    display: inline;
+    
+}
+.list{
+    text-align: right;
+}
+.box6{
+    width: 400px;
+    background-color: white;
+    border:1px solid gray;
+    margin: 18px 100px;
+    padding: 32px 50px;
+    float: right;
+
+}
+.box2 , .box3,.box4{
+    width: 725px;
+    background-color: white;
+    border:1px solid gray;
+    margin: 18px;
+    margin-right: 5px;
+    padding: 32px 14px;
+}
+.box4{
+    overflow: hidden;
+}
+.box4>div{
+    width: 100px;
+    height: 105px;
+    background-color: white;
+    border:1px solid gray;
+    margin:18px;
+    float: left;
+    background: rgba(255, 255, 255) url(F:/勤奋蜂/阶段一任务/阶段一图片/10.jpg) no-repeat 2px 2px;
+            background-size: 80px 80px;
+
+}
+.box5{
+    width: 674px;
+    background-color: white;
+    border:1px solid gray;
+    margin: 18px;
+    padding:32px 40px;
+}
+table {
+    width: 600px;
+    height: 100px;
+}
+
+table,
+td {
+    border: 1px, solid, gray;
+    border-collapse: collapse;
+}
+
+.black {
+    background: rgba(51, 51, 51);
+    color: white;
+}
+
+.gray {
+    background: rgba(204, 204, 204);
+}
+.提示1 {
+    text-indent: 2em;
+    font-size: small;
+    color: gray;
+}
+
+.提示2 {
+    text-indent: 2em;
+    font-size: small;
+    color: gray;
+
+}
+
+button {
+    width: 271px;
+    height: 33px;
+    color: white;
+    background: rgba(51, 85, 208);
+    border-radius: 10px;
+}
+
+textarea {
+    width: 300px;
+    height: 200px;
+}
+.box7{
+    width: 100%;
+    height: 52px;
+    background-color:rgba(0, 0, 0);
+    color:white;
+    text-align: center;
+    font-size: 14px;
+}
